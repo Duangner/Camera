@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
     private int iBackCameraId;//后置摄像头
     private int iCameraCnt;//摄像头数量
     private boolean isBack;//是否后置摄像头
+    //新的
 
 
     /**
